@@ -1,0 +1,23 @@
+{
+  "name": "ai-testcase-generator",
+  "version": "1.0.0",
+  "description": "AI-powered test case generator for PRDs",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server --port=8000"
+  },
+  "keywords": [
+    "test-case",
+    "generator",
+    "ai",
+    "prd",
+    "testing",
+    "qa"
+  ],
+  "author": "AI Test Case Generator",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
